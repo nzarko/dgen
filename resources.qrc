@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/shutdown.png</file>
+        <file alias="execute_icon">icons/execute (1).png</file>
+        <file>icons/start-here-kde.svg</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
